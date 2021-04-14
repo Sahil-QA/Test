@@ -38,7 +38,7 @@ public class FormController {
 		System.out.println("User Name: "+name);
 		System.out.println("Email: "+ email);
 		System.out.println("Company Name: "+ company);
-		Sysout.out.println("Data Printed");
+		System.out.println("Data Printed");
 		
 		ModelAndView modelAndView = new ModelAndView();
 		
